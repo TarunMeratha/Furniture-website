@@ -1,0 +1,104 @@
+.home
+{
+    background-color: rgb(2, 87, 66) !important;
+    width: 100vw;
+    height: 100vh;
+}
+.text
+{
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.list
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav-item
+{
+    margin-left: 1vw;
+}
+
+ 
+.pera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    }
+.butn1{
+    border-radius: 10vh;    
+}
+.butn2
+{
+    width: 6vw;
+    border-radius: 10vh;
+    color: white;
+}
+.imge
+{
+    width: 100%;
+    height: 100%;
+}
+.imge2
+{
+    width: 70%;
+    height: 70%;
+}
+.head
+{
+    height: 4vh;
+
+}
+.per
+{
+    height: 10vh;
+}
+.second
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+.text1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+.imges
+{
+    width: 100%;
+    height: 100%;
+}
+.name
+{
+    text-align: center;
+
+}
+.price
+{
+    text-align: center;
+}
+.third
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: whitesmoke;
+}
